@@ -9,5 +9,6 @@ Some animations are also added when the above buttons are clicked to improve the
 
 Some Screenshots of the application running on my device (Android 11)
 
-![image](https://user-images.githubusercontent.com/81374292/176896562-bddc757d-2035-4eae-bdb5-d1f2845cd59e.png)
-![image](https://user-images.githubusercontent.com/81374292/176896602-6d4a7c5a-c6f0-4aa2-bd3d-ce6fd5ca06f7.png)
+<img src="https://user-images.githubusercontent.com/81374292/176896562-bddc757d-2035-4eae-bdb5-d1f2845cd59e.png" width="100" height="100">
+
+<img src="https://user-images.githubusercontent.com/81374292/176896602-6d4a7c5a-c6f0-4aa2-bd3d-ce6fd5ca06f7.png" width="100" height="100">
